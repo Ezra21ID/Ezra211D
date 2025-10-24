@@ -1,7 +1,7 @@
 # Ramadan
 | No | Date | Sesion | Topic | Lab Report | Repository |
 |----|------|--------|-------|------------|------------|
-|    |      |        |       |            |     Repo 1     |
+|    |      |        |       |            |      https://github.com/Ezra21ID/Modul-1.git     |
 |    |      |        |       |            |            |
 |    |      |        |       |            |            |
 |    |      |        |       |            |            |
