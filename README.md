@@ -1,37 +1,29 @@
-# Hi, I'm Rama 👋
 
----
-##  👨‍🎓 About Me
-🎓 Currently studying Informatics Engineering at State Islamic University of Malang (UIN Malang).  
-🌱 Always learning, creating, and growing through technology.  
-📱 Focusing on Fullstack Mobile Development with Flutter.  
-🤖 Exploring Artificial Intelligence & Augmented Reality. 
+# Praktikum Pemrograman Mobile 
+
+Repositori ini berisi kumpulan tugas, modul, dan laporan untuk mata kuliah Praktikum Pemrograman Mobile di [Nama Universitas Anda].
 
 ---
 
----
-##  🚀 Tech Stack
-- Languages: Dart, Java, PHP, JavaScript  
-- Frameworks & Tools: Flutter, MySQL, Git, Android Studio, Netbeans
-- Currently Learning: Flutter for mobile, AI concepts, AR development
+## 👤 Profil
+
+* **Nama:** Achmad Ramadan
+* **NIM:** 230605110105
+* **Kelas:** [Isi Kelas Anda]
 
 ---
 
----
-##  📘 Learning Progress
+## 📚 Daftar Modul & Laporan
 
-Currently, I’m learning mobile programming:
+Berikut adalah tabel yang berisi tautan ke repositori kode (modul) dan laporan praktikum.
 
-
-
-| No | Date       | Praktikum ke | Topic                                      | Modul	     | Laporan Praktikum     |
-|----|------------|---------|--------------------------------------------|------------|----------|
-| 1  | 03-09-2025 | 01      | Introduction to Mobile Programming & Environment Setup | [Task 01](https://github.com/Ezra21ID/Modul-1.git ) | [Laporan Modul 1]([https://drive.google.com/file/d/1D9olQua29sb94bNs12HwqaTo6hYwVpIp/view?usp=sharing](https://drive.google.com/drive/folders/1a3qby9u80Vn8tGtnisAtfDYPowj1jDpX?usp=sharing)) |
-| 2  | 3-09-2025 | 01      | Widget Row and Column       | [Task 02]([https://github.com/Ezra21ID/modul-2.git ) | [Laporan Modul 2](https://drive.google.com/file/d/1M4utnTtmWTm16zQrg5nJ99xhgj0aTZwK/view?usp=sharing](https://drive.google.com/drive/folders/1a3qby9u80Vn8tGtnisAtfDYPowj1jDpX?usp=sharing)) |
-| 3  | 10-09-2025 | 02      | Pengaturan Layout Row dan Column di Flutter       | [Task 03](https://github.com/Ezra21ID/modul-3.git ) | [Laporan Modul 3](https://drive.google.com/file/d/1_pOsf7boWFPybRHWx-buge0mw7YJB7rg/view?usp=sharing](https://drive.google.com/drive/folders/1a3qby9u80Vn8tGtnisAtfDYPowj1jDpX?usp=sharing)) |
-| 4  | 10-09-2025 | 02      | Widget Flexible dan Expanded        | [Task 04](https://github.com/Ezra21ID/modul-4.git) | [Laporan Modul 4]([https://drive.google.com/file/d/1A-PG9e4nZhGNT3kKGOoerxYbF9C2bYsx/view?usp=sharing](https://drive.google.com/drive/folders/1a3qby9u80Vn8tGtnisAtfDYPowj1jDpX?usp=sharing)) |
-| 5  | 17-09-2025 | 03      | Widget SizedBox, Spacer, dan Card       | [Task 05](https://github.com/Ezra21ID/modul-5.git) | [Laporan Modul 5]([https://drive.google.com/file/d/12PsEWhgro4Q05cox-y8wDUfYC7BH_LJO/view?usp=sharing](https://drive.google.com/drive/folders/1a3qby9u80Vn8tGtnisAtfDYPowj1jDpX?usp=sharing)) |
-| 6  | 17-09-2025 | 03     | Widget GridView, ListView, GridView.builder, dan ListView.builder        | [Task 06](https://github.com/Ezra21ID/modul-6.git) | [Laporan Modul 6](https://drive.google.com/drive/folders/1a3qby9u80Vn8tGtnisAtfDYPowj1jDpX?usp=sharing)]
-| 7  | 24-09-2025 | 04     | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route        | [Task 07](https://github.com/Ezra21ID/UTS.git) | [Laporan Modul 7](https://drive.google.com/drive/folders/1a3qby9u80Vn8tGtnisAtfDYPowj1jDpX?usp=sharing)
-
+| No | Tanggal    | Praktikum Ke | Topik                                                                 | Modul (GitHub)                               | Laporan Praktikum (GDrive)                                                                         |
+|----|------------|--------------|-----------------------------------------------------------------------|----------------------------------------------|----------------------------------------------------------------------------------------------------|
+| 1  | 03-09-2025 | 01           | Introduction to Mobile Programming & Environment Setup                | [Modul 01](https://github.com/Ezra21ID/Modul-1.git) | [Laporan 01](https://drive.google.com/file/d/1D9olQua29sb94bNs12HwqaTo6hYwVpIp/view?usp=sharing)     |
+| 2  | 03-09-2025 | 01           | Widget Row and Column                                                 | [Modul 02](https://github.com/Ezra21ID/modul-2.git) | [Laporan 02](https://drive.google.com/file/d/1M4utnTtmWTm16zQrg5nJ99xhgj0aTZwK/view?usp=sharing)     |
+| 3  | 10-09-2025 | 02           | Pengaturan Layout Row dan Column di Flutter                           | [Modul 03](https://github.com/Ezra21ID/modul-3.git) | [Laporan 03](https://drive.google.com/file/d/1_pOsf7boWFPybRHWx-buge0mw7YJB7rg/view?usp=sharing)     |
+| 4  | 10-09-2025 | 02           | Widget Flexible dan Expanded                                          | [Modul 04](https://github.com/Ezra21ID/modul-4.git) | [Laporan 04](https://drive.google.com/file/d/1A-PG9e4nZhGNT3kKGOoerxYbF9C2bYsx/view?usp=sharing)     |
+| 5  | 17-09-2025 | 03           | Widget SizedBox, Spacer, dan Card                                     | [Modul 05](https://github.com/Ezra21ID/modul-5.git) | [Laporan 05](https://drive.google.com/file/d/12PsEWhgro4Q05cox-y8wDUfYC7BH_LJO/view?usp=sharing)     |
+| 6  | 17-09-2025 | 03           | Widget GridView, ListView, GridView.builder, dan ListView.builder     | [Modul 06](https://github.com/Ezra21ID/modul-6.git) | [Laporan 06](https://drive.google.com/drive/folders/1a3qby9u80Vn8tGtnisAtfDYPowj1jDpX?usp=sharing) |
+| 7  | 24-09-2025 | 04           | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route  | [Modul 07 (UTS)](https://github.com/Ezra21ID/UTS.git) | [Laporan 07](https://LINK-ANDA-YANG-BENAR)                                                            |
 (#) |
