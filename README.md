@@ -33,8 +33,5 @@ Currently, I’m learning mobile programming:
 | 5  | 17-09-2025 | 03      | Widget SizedBox, Spacer, dan Card       | [Task 05](https://github.com/Ezra21ID/modul-5.git) | [Laporan Modul 5](https://drive.google.com/file/d/12PsEWhgro4Q05cox-y8wDUfYC7BH_LJO/view?usp=sharing) |
 | 6  | 17-09-2025 | 03     | Widget GridView, ListView, GridView.builder, dan ListView.builder        | [Task 06](https://github.com/Ezra21ID/modul-6.git) | [Laporan Modul 6]
 | 7  | 24-09-2025 | 04     | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route        | [Task 07](#) | [Laporan Modul 7]
-| 8  | 24-09-2025 | 04     | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route        | [Task 08](#) | [Laporan Modul 8]
-| 9  | 1-10-2025 | 05     | StatefulWidget        | [Task 09](#) | [Laporan Modul 9]
-| 10  | 8-10-2025 | 06     | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter        | [Task 10](#) | [Laporan Modul 10]
-| 11  | 15-10-2025 | 07     | Manajemen State dengan GetX      | [Task 11](#) | [Laporan Modul 11]
+
 (#) |
