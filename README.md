@@ -32,6 +32,6 @@ Currently, I’m learning mobile programming:
 | 4  | 10-09-2025 | 02      | Widget Flexible dan Expanded        | [Task 04](https://github.com/Ezra21ID/modul-4.git) | [Laporan Modul 4](https://drive.google.com/file/d/1A-PG9e4nZhGNT3kKGOoerxYbF9C2bYsx/view?usp=sharing) |
 | 5  | 17-09-2025 | 03      | Widget SizedBox, Spacer, dan Card       | [Task 05](https://github.com/Ezra21ID/modul-5.git) | [Laporan Modul 5](https://drive.google.com/file/d/12PsEWhgro4Q05cox-y8wDUfYC7BH_LJO/view?usp=sharing) |
 | 6  | 17-09-2025 | 03     | Widget GridView, ListView, GridView.builder, dan ListView.builder        | [Task 06](https://github.com/Ezra21ID/modul-6.git) | [Laporan Modul 6]
-| 7  | 24-09-2025 | 04     | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route        | [Task 07](#) | [Laporan Modul 7]
+| 7  | 24-09-2025 | 04     | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route        | [Task 07](https://github.com/Ezra21ID/UTS.git) | [Laporan Modul 7]
 
 (#) |
