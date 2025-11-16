@@ -9,7 +9,7 @@ Repositori ini berisi kumpulan tugas, modul, dan laporan untuk mata kuliah Prakt
 
 * **Nama:** Achmad Ramadan
 * **NIM:** 230605110105
-* **Kelas:** [Isi Kelas Anda]
+* **Kelas:** Praktikum Mobile (A), Mobile Programming (B)
 
 ---
 
