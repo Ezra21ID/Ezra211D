@@ -17,7 +17,7 @@ Repositori ini berisi kumpulan tugas, modul, dan laporan untuk mata kuliah Prakt
 
 Berikut adalah tabel yang berisi tautan ke repositori kode (modul) dan laporan praktikum.
 
-| No | Minggu    | Praktikum Ke | Topik                                                                 | Modul (GitHub)                               | Laporan Praktikum (GDrive)                                                                         |
+| No | Minggu ke | Praktikum Ke | Topik                                                                 | Modul (GitHub)                               | Laporan Praktikum (GDrive)                                                                         |
 |----|------------|--------------|-----------------------------------------------------------------------|----------------------------------------------|----------------------------------------------------------------------------------------------------|
 | 1  | 1 | 01           | Introduction to Mobile Programming & Environment Setup                | [Modul 01](https://github.com/Ezra21ID/Modul-1.git) | [Laporan 01](https://drive.google.com/file/d/1D9olQua29sb94bNs12HwqaTo6hYwVpIp/view?usp=sharing)     |
 | 2  | 1 | 01           | Widget Row and Column                                                 | [Modul 02](https://github.com/Ezra21ID/modul-2.git) | [Laporan 02](https://drive.google.com/file/d/1M4utnTtmWTm16zQrg5nJ99xhgj0aTZwK/view?usp=sharing)     |
