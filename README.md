@@ -33,4 +33,5 @@ Berikut adalah tabel yang berisi tautan ke repositori kode (modul) dan laporan p
 | 12  | 8 | 08           | Ujian Tengah Seemester  | [(UTS)](https://github.com/Ezra21ID/UTS.git) | [Laporan UTS](https://drive.google.com/file/d/1vdbDXqJCFjIR8wSKSdGeawW3Zcp8hd5H/view?usp=drive_link)                                                            |
 | 12  | 9 | 09           | Manajemen State dengan GetX     | [Modul 12](https://github.com/Ezra21ID/modul-12.git) | [Laporan 12](https://drive.google.com/file/d/1DXwHxHq06X_r8xgdVjJoH36vTMk9zrGs/view?usp=drive_link) |
 | 13  | 10 | 10           | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API     | [Modul 13](https://github.com/Ezra21ID/modul-13.git) | [Laporan 13](https://drive.google.com/file/d/1YVE3-u2ioPbak1pL7oZnIggr9GGO6Rw_/view?usp=drive_link) |
+| 14  | 11 | 11           | Ujian Akhir Semesyer     | [UAS](https://github.com/Ezra21ID/cashflow-app-uas.git) | [Laporan UAS](https://drive.google.com/file/d/1FjCQead62DBhJfB22hKoVA6anq6ee3ML/view?usp=sharing) |
 (#) |
